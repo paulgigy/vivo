@@ -1,0 +1,36 @@
+html, body{
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	background-image: url('../images/ferrari.jpg');
+	background-position: top center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.hero{
+	width: 100%;
+	height: auto;
+	margin: auto;
+}
+.menu-top{
+	height: 120px;
+	width: 100%;
+	background-color: rgba(0,0,0, .60);
+	margin-top: 0px;
+	margin-left: 0px;
+	float: left;
+	z-index: 100;
+	background-attachment: fixed;
+}
+.logo-cover{
+	width: 80%;
+	margin: auto;
+	height: 120px;
+}
+.real-logo{
+	float: left;
+	margin-top:10px;
+	margin-left: 0px;
+	width: auto;
+	height: auto; 
+}
